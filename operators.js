@@ -6,8 +6,8 @@ if (10<= 20) {//this is true;
     console.log("10 is less than 20");
 }
 
-if (21 >= 10){
-    console.log("20 is greater than 10");
+if (22 >= 10){
+    console.log("22 is greater than 10");
 }
 
 // = assign to variable;
